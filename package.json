@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/asical91.lwc-l7oauqkp-fork-l7ob2t2i",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve aIeKl48mhghEh0Q1oqgo --open"
+  }
+}
